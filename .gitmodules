@@ -1,0 +1,3 @@
+[submodule "convenience"]
+	path = convenience
+	url = git@github.com:Javanater/convenience.git
